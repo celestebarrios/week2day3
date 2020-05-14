@@ -3,7 +3,7 @@ def printName(name):
     
 my_own_pi=3.14
 
-
+module = 'joel'
 
 def area(length,width):
     area =length *width 
@@ -13,3 +13,4 @@ def circumference(diameter):
           circumference=2*diameter*3.14 
           print(f"the circumference of the house)
 circumference()
+modulehw = area and circumference
